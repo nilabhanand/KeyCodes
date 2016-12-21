@@ -14,18 +14,19 @@ body {
 	position: absolute; 
     width: 100%;  
     text-align: center;
-	font-family: Verdana;
-	font-size: 60px;
+	font-family: 'Space Mono', monospace;
+	font-size: 40px;
 	color: #ffffff;
 	top: 50%;
 	font-weight: lighter;
+	letter-spacing: -1px;
 }
 
 #keycode {
 	position: absolute; 
     width: 100%;  
     text-align: center;
-	font-family: Verdana;
+	font-family: 'Space Mono', monospace;
 	font-size: 100px;
 	color: #ffffff;
 	top: 25%;
@@ -36,9 +37,9 @@ body {
 	position: absolute; 
     width: 100%;  
     text-align: center;
-	font-family: sans-serif;
-	font-size: 80px;
+	font-family: 'Space Mono', monospace;
+	font-size: 50px;
 	color: #ffffff;
 	top: 25%;
-	font-weight: Normal;
+	font-weight: normal;
 }
